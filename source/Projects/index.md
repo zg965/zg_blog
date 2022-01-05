@@ -16,5 +16,5 @@ date: 2018-04-25 23:47:23
 <br>
 
 **离线贴纸表情制作器**
-在网页内实现输入文字，生成 GIF 格式的纯文字表情，模拟离线杂志贴纸的效果。在微信内打开可以直接长按发送到会话。点[这里](/demo/stickerMaker2.html)体验
+在网页内实现输入文字，生成 GIF 格式的纯文字表情，模拟离线杂志贴纸的效果。在微信内打开可以直接长按发送到会话。点[这里](https://offline-sticker-maker.vercel.app/)体验
 https://github.com/zenggong965/offline-sticker-maker
