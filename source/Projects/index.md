@@ -4,7 +4,7 @@ date: 2018-04-25 23:47:23
 ---
 
 **凑合用计算器**
-学习 React 过程中的练习作品，一个纯前端的计算器，支持算式输入、四则运算、简单算术优先和退格。点[这里](https://calculate-anyway.herokuapp.com/)体验（有点慢，需要梯子）
+学习 React 过程中的练习作品，一个纯前端的计算器，支持算式输入、四则运算、简单算术优先和退格。点[这里](https://calculate-anyway.vercel.app/)体验
 项目地址：https://github.com/zenggong965/calculate-anyway
 
 <br>
