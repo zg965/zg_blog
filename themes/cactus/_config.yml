@@ -18,7 +18,7 @@ nav:
   articles: /archives/
   projects: /projects/
   about: /about/
-  search: /search/
+  # search: /search/
 
 
 # Links to your social media accounts.
