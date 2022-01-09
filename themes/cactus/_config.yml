@@ -16,9 +16,9 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  projects: /project/
-  about: /aboutme/
-  search: /searchsite/
+  projects: /projects/
+  about: /about/
+  search: /search/
 
 
 # Links to your social media accounts.
