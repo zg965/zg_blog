@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 脑细胞增生
-subtitle: ''
-description: 记录我的认知模型不断打破重建的思考过程
+title: 曾工的博客
+subtitle: 
+description: 记录我解构并建构的思考过程
 keywords:
 author: 曾工
 language: zh-CN
@@ -31,7 +31,6 @@ i18n_dir: :lang
 skip_render: 
     - Projects
     - demo
-    - demo/sutangpd
 
 # Writing
 new_post_name: :title.md # File name of new posts

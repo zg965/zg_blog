@@ -4,10 +4,14 @@
     <% if (theme.gravatar && (theme.gravatar.email || theme.gravatar.hash) && theme.logo.gravatar) { %>
       <% if (theme.gravatar.email) { %>
         <div id="logo" style="background-image: url(<%- gravatar(theme.gravatar.email) %>);"></div>
-      <% } else { %>
+      <% } 
+
+      else { %>
         <div id="logo" style="background-image: url(https://www.gravatar.com/avatar/<%= theme.gravatar.hash %>);"></div>
       <% } %>
-    <% } else { %>
+    <% } 
+
+    else { %>
       <div id="logo" style="background-image: url(<%- url_for(theme.logo.url) %>);"></div>
     <% } %>
   <% } %>

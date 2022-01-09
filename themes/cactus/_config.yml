@@ -16,9 +16,9 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  projects: /Projects/
-  about: /About/
-  search: /Search/
+  projects: /projects/
+  about: /about/
+  search: /search/
 
 
 # Links to your social media accounts.
@@ -26,8 +26,9 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/zenggong965
-  mail: mailto:kaytsanggeek@qq.com
+  # github: 
+  # jike: 
+  # twitter:
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -82,6 +83,10 @@ logo:
   url: /images/logo.png
   gravatar: false
   grayout: true
+
+
+jike:
+  url: /images/jikeicon.png
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
