@@ -1,9 +1,9 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "zk's blog",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "npx hexo generate",
+    "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server"
