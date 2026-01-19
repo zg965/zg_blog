@@ -22,7 +22,9 @@
     "hexo-renderer-marked": "^4.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-theme-landscape": "^0.0.3",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.0"
   },
   "engines": {
     "node": "20.x"
